@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Face</string>
+    <string name="title_cele1">Celebrity v1</string>
+    <string name="title_cele2">Celebrity v2</string>
+    <string name="title_age">Face Age</string>
+
+    <string name="text_intro">나와 닮은 연예인은 누구일까?\n당신의 얼굴을 분석해, 닮은 연예인을 알려드립니다!\n지금 당장 카메라로 사진을 찍고 앨범에서 사진을 선택하세요!</string>
+    <string name="text_intro2">나의 얼굴나이는 몇살일까?\n당신의 얼굴을 분석해, 얼굴나이를 측정해드립니다!\n지금 당장 카메라로 사진을 찍고 앨범에서 사진을 선택하세요!</string>
+</resources>

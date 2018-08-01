@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_cele1"
+        android:icon="@drawable/ic_cele1_black_24dp"
+        android:title="@string/title_cele1" />
+
+    <item
+        android:id="@+id/navigation_cele2"
+        android:icon="@drawable/ic_cele2_black_24dp"
+        android:title="@string/title_cele2" />
+
+    <item
+        android:id="@+id/navigation_age"
+        android:icon="@drawable/ic_age_black_24dp"
+        android:title="@string/title_age" />
+
+    <item
+        android:id="@+id/navigation_same"
+        android:icon="@drawable/ic_cele1_black_24dp"
+        android:title="@string/title_age" />
+
+</menu>
